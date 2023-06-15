@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 400px;
+    border: 1px solid gray;
+    margin: 0 auto;
+}
+
+
+.title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    grid-template-columns: 50px 300px 50px;
+    
+}
+.title i{
+width: 30px;
+margin-left: 5px;
+}
+
+.block-2 img{
+   width: 400px;;
+}
+.block-2 p{
+    padding: 10px;
+}
+.img i{
+  padding: 5px;  
+  
+}
